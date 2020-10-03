@@ -11,6 +11,8 @@
     display: block;
 }
 
+
+
 .themeify.discorded #terminal-output span.received,
 .themeify.discoranged #terminal-output span.received,
 .themeify.cyborg #terminal-output span.received,
@@ -33,3 +35,16 @@
 .themeify.nighttime #terminal-output span.sent {
     color: greenyellow;
 }
+
+#terminal-output span.received .small,
+#terminal-output span.sent .small{
+    font-size: 12px;
+    line-height: 13px;
+}
+
+
+#terminal-output span.received .medium,
+#terminal-output span.sent .medium{
+    font-size: 14px;
+    line-height: 15px;
+}  
