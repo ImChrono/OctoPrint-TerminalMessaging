@@ -1,5 +1,10 @@
 # Octoprint-TerminalMessaging
 
+This is a fork that adds new feature for TerminalMessaging
+manually install by this URL:
+https://github.com/ImChrono/OctoPrint-TerminalMessaging/archive/master.zip
+
+
 Plugin that adds styling to the terminal tab that makes it easier to see where a message is from.
 
 Messages you send are on the right and are in green. Messages the printer sends back are on the left
