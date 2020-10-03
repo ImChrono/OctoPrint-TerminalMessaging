@@ -36,15 +36,15 @@
     color: greenyellow;
 }
 
-#terminal-output span.received .small,
-#terminal-output span.sent .small{
+#terminal-output span.received.small,
+#terminal-output span.sent.small{
     font-size: 12px;
     line-height: 13px;
 }
 
-
-#terminal-output span.received .medium,
-#terminal-output span.sent .medium{
+#terminal-output span.received.medium,
+#terminal-output span.sent.medium{
     font-size: 14px;
     line-height: 15px;
-}  
+} 
+
